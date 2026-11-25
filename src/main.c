@@ -16,7 +16,7 @@ char esc_clrline[16] = "\x1b[2K";
 char esc_goup[16] = "\x1b[1A";
 
 #ifndef DEFAULT_IP
-    #define DEFAULT_IP "::FFFF:144.217.26.87"
+    #define DEFAULT_IP ""
 #endif
 
 #ifndef DEFAULT_PORT
